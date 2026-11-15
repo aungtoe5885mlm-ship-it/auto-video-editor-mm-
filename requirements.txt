@@ -2,4 +2,3 @@
 streamlit
 imageio-ffmpeg
 edge-tts
-
