@@ -231,4 +231,3 @@ if video:
 
 st.divider()
 st.caption("Myanmar AI Auto Video Editor | Thiha & Nilar Voice")
-
