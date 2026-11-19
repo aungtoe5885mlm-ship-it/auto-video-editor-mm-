@@ -26,7 +26,7 @@ VOICES = {
     "Thiha (အမျိုးသားအသံ)": "my-MM-ThihaNeural",
     "Nilar (အမျိုးသမီးအသံ)": "my-MM-NilarNeural"
 }
-MODEL_NAME = "gemini-3.6-flash"
+MODEL_NAME = MODEL_NAME = "gemini-3.8-flash"
 
 def get_api_key():
     key = os.environ.get("GEMINI_API_KEY", "").strip()
